@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Angga",
+    "age": 23,
+    "photo": "1612516523349-613.jpeg",
+    "bio": "Hello World!!!",
+    "address": "Nganjuk"
+  }, 
+  {
+    "id": 2,
+    "name": "Dika",
+    "age": 24,
+    "photo": "1612516523349-613.jpeg",
+    "bio": "Hello World!!!",
+    "address": "Surabaya"
+  }, 
+  {
+    "id": 3,
+    "name": "Putra",
+    "age": 25,
+    "photo": "1612516523349-613.jpeg",
+    "bio": "Hello World!!!",
+    "address": "Kediri"
+  }
+]
